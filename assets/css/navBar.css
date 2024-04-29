@@ -1,5 +1,5 @@
 #navBar {
-    background-color: #9D4EDD !important; /* Add !important to override Bootstrap styles if needed */
+    background-color: #4c70de !important; /* Add !important to override Bootstrap styles if needed */
     position: relative;
 }
 /* Optional: Change the text color of the navigation links */
@@ -10,8 +10,7 @@
 }
 
 .navbar-nav .nav-link button{
-
-    background-color: #FF5C8A;
+    background-color: #0006ff;
     border: none;
     color: #FFFFFF;
 }
