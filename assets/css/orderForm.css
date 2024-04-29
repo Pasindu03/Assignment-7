@@ -17,13 +17,13 @@
 }
 
 .btn-outline-success{
-    border: 1px solid #9d4edd;
-    color: #9d4edd;
+    border: 1px solid #4c70de;
+    color: #0006ff;
 }
 
 .btn-outline-success:hover{
-    background-color: #9d4edd;
-    border: 1px solid #9d4edd;
+    background-color: #4c70de;
+    border: 1px solid #0006ff;
 }
 
 .btn-outline-primary{
