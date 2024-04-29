@@ -17,7 +17,7 @@ body {
 
 .loading-page {
     z-index: 20;
-    background: linear-gradient(to bottom, #9d4edd 15%, #c77dff 100%);
+    background: linear-gradient(to bottom, #4e91dd 15%, #7895bb 100%);
     width: 1920px;
     height: 944px;
     display: flex;
