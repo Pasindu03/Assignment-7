@@ -34,7 +34,7 @@ $(document).ready(function () {
             myFunction();
 
         }
-    }, 50);
+    }, 1);
 });
 
 
