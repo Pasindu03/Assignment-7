@@ -7,8 +7,8 @@ const data = {
     datasets: [{
         label: 'Revenue',
         data: [50000, 75000, 88000, 65000, 121000,96000],
-        backgroundColor: 'rgba(158, 78, 221, 0.5)',
-        borderColor: '#9D4EDD',
+        backgroundColor: 'rgba(78,102,221,0.5)',
+        borderColor: '#4e87dd',
         borderWidth: 3
     }]
 };
